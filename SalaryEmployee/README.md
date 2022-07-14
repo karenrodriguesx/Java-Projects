@@ -1,4 +1,4 @@
-# O que este programa faz?
+# O que este projeto faz?
 - Calcula o salário líquido de um funcionário
 - O salário líquido sofre uma redução devido a um valor de imposto a ser informado pelo usuário
 - Depois, o salário é incrementado com um aumento percentual
