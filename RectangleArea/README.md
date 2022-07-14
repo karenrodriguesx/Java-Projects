@@ -1,4 +1,4 @@
-# O que este programa faz?
+# O que este projeto faz?
 - A função básica é calcular a área, perímetro e diagonal de um retângulo.
 - A altura e largura são informadas pelo usuário
 - O programa retorna os resultados de cada operação
