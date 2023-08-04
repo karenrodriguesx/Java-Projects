@@ -26,7 +26,7 @@ public class Program {
 		if (option == 'y') {
 			System.out.print("Enter initial deposit value: ");
 			double initialDeposit = sc.nextDouble();
-			holder = new Holder (name, accountNumber, initialDeposit); //construror completo
+			holder = new Holder (name, accountNumber, initialDeposit); //construtor completo
 		} else {
 			holder = new Holder (name, accountNumber); //construtor sem deposito inicial
 		}
