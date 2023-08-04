@@ -1,5 +1,5 @@
 # O que este projeto faz?
-- Calcula o salário líquido de um funcionário
+- Calcula o salário líquido de um funcionário, de acordo com as especificações e regras da empresa
 - O salário líquido sofre uma redução devido a um valor de imposto a ser informado pelo usuário
 - Depois, o salário é incrementado com um aumento percentual
 - A porcentagem também é informada pelo usuário
