@@ -1,5 +1,5 @@
 # O que este projeto faz?
-- Exibe dados de um produto a ser informado pelo usuário
+- Simula um sistema de estoque, onde podem ser adicionados produtos, e seus respectivos preços
 - O usuário deve inserir o nome e o preço
 - Depois, serão adicionadas algumas unidades do produto ao estoque
 - Após adicionar, é solicitado que seja inserida uma quantidade do produto a ser removida do estoque
