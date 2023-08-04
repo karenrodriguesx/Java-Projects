@@ -1,7 +1,7 @@
 # O que este projeto faz?
 
 - Simula a situação em que uma pensão precisa registrar os ocupantes de seus quartos
-- Primeiro solicita a quantitade de quartos que serão registrados
+- Primeiro solicita a quantidade de quartos que serão registrados
 - Registra cada quarto com o nome dos ocupantes, e-mail e número do quarto
 - Por fim, retorna o número dos quartos ocupados, com nome e e-mail dos ocupantes
 
