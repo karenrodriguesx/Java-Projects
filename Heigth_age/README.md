@@ -1,5 +1,6 @@
 # O que este projeto faz?
 
+- Calcula a altura média de um número de pessoas escolhido pelo usuário, e mostra a porcentagem de menores de 16 anos, bem como seus nomes
 - Primeiro, é solicitada a quantidade de pessoas que serão registradas
 - Depois são solicitados os dados de cada pessoa: Nome, idade e altura
 - O Programa retorna a altura média, a porcentagem de pessoas menores de 16 anos e seus nomes
