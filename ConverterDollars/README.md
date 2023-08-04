@@ -1,6 +1,6 @@
 # O que este projeto faz?
 - É um conversor de dólar para real, simulando que o usuário deseja comprar dólares
-- Primeiro é solicitado o valor do dólar (cotação)
+- Primeiro é solicitado o valor do dólar (cotação atual)
 - O usuário deve informar quantos dólares deseja comprar
 - O programa exibe o valor que será pago em reais
 
