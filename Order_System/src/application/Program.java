@@ -21,11 +21,10 @@ public class Program {
 			
 			System.out.println("\nSuccessful order!");
 			
+// instanciando a classe Order para adicionar um novo pedido
 			Order order = new Order (id, order_number, new Date(), OrderStatus.PENDING_PAYMENT);
 			
 			System.out.println(order);
-			
-			System.out.println("");
 	
 		sc.close();
 	
