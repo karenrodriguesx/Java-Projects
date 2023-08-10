@@ -5,7 +5,7 @@
 - Após solicitar os dados do funcionário, o sistema pergunta a quantidade de contratos que ele teve
 - Informando a quantidade de contratos, o próximo passo é informar os dados destes contratos, como a data de início, o valor que foi pago por hora, e a duração, em horas, daquele contrato
 - Para consultar a renda que o funcionário teve, é necessário selecionar o mês e ano de consulta, que será questionado após a inclusão dos dados citados acima
-- Por fim, são exibidos os dados do funcionário, como o nome e o departamento, e é informado o salário que ele recebeu no período indicado, considerando a soma do salário base com o que ele recebeu de contratos
+- Por fim, são exibidos os dados do funcionário, como o nome e o departamento, e é informado o salário que ele recebeu no período indicado, considerando a soma do salário base + valores que ele recebeu advindos de contratos
 
 <div align=center>
   
